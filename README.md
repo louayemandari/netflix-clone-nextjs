@@ -1,10 +1,13 @@
 # Netflix with the MERN stack
 This is a netflix Clone web App. It uses the following tech Stack:
 
--Next.js with jsx syntax
--MongoDB
--Express.js
--Node.js
+-Next.js with jsx syntax.
+
+-MongoDB.
+
+-Express.js.
+
+-Node.js.
 
 tasks to complete:
 fetching trailer vids for every movie
